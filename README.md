@@ -1,4 +1,4 @@
-# SP500-Bonds-Returns-Risk-premiums
+# SP500-Bonds-Returns-Risk-Premiums
 Returns and risk premiums S&P-500, Bills.
 
 Period 1928-2021.
